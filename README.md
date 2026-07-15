@@ -1,4 +1,4 @@
-# POLIMI GSoM — Quantitative Finance Projects
+# PoliMi GSoM — Quantitative Finance Projects
 
 A curated collection of group projects from my **M.Sc. in Quantitative Finance** at **GSoM – Politecnico di Milano**. Each project applies quantitative methods to a real financial problem, end to end in Python. 
 
